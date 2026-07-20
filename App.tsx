@@ -8,7 +8,6 @@ export default function App() {
     <div style={{ padding: '2rem', fontFamily: 'sans-serif', maxWidth: '800px', margin: '0 auto', lineHeight: '1.6' }}>
       <h1 style={{ color: '#0056b3' }}>College Complaint Management System</h1>
       <p style={{ fontSize: '1.2rem', color: 'green', fontWeight: 'bold' }}>
-        ✅ Your full-stack project has been generated successfully!
       </p>
       <div style={{ backgroundColor: '#fff3cd', padding: '1rem', borderLeft: '4px solid #ffeeba', margin: '1.5rem 0' }}>
         <p style={{ margin: 0, color: '#856404' }}>
