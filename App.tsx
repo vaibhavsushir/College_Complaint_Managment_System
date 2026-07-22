@@ -1,4 +1,4 @@
-export default function App() {
+export default function App(){
   return (
     <div style={{ padding: '2rem', fontFamily: 'sans-serif', maxWidth: '800px', margin: '0 auto', lineHeight: '1.6' }}>
       <h1 style={{ color: '#0056b3' }}>College Complaint Management System</h1>
